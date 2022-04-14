@@ -1,6 +1,6 @@
 # BetaBaseSWERVE
 # [NE PAS TOUCHER AVANT D'AVOIR FINI RAPID REACT]
- Code Pour La Beta Base Utulisant Des Swerves Wheels
+ Code Pour La Beta Base Utilisant Des Swerves Wheels
 
 ## Nos Code Important
  -[Infinite Recharge](https://github.com/huskies5439/InfiniteRecharge)
