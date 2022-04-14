@@ -32,7 +32,5 @@
   -[Limelight](https://downloads.limelightvision.io/software/LimelightFinderSetup1_0_1.exe)
   
   -[REV Robotics Hardware Client](https://docs.revrobotics.com/rev-control-system/managing-the-control-system/rev-hardware-client)
-  
-  
                                                                           ![alt text](https://pbs.twimg.com/profile_images/586350658762055680/OE5SxvVT_400x400.png)
   
